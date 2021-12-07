@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siophelan
+- 👋 Hello, I’m @siophelan
 - 👀 I’m still figuring things out!
 - 🌱 I’m currently learning PHP and Python, while dabbling in HTML, CSS and SQL...
 
