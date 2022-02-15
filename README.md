@@ -1,6 +1,6 @@
-- 👋 Hello, I’m @siophelan
-- 🎓 Currently studying Computing at TU Dublin
-- 🚀 On the side, I’m teaching myself Python and getting to grips with my Raspberry Pi
+👋 Hello, I’m @siophelan
+🎓 Currently studying Computing at TU Dublin
+🚀 On the side, I’m teaching myself Python and getting to grips with my Raspberry Pi
 
 
 <!---
