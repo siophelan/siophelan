@@ -1,7 +1,6 @@
 - 👋 Hello, I’m @siophelan
-- I’m teaching myself Python, while dabbling in PHP, HTML, CSS and SQL
-- When I'm not trying to code, I love cycling, hiking, and spending lots of time outdoors
-- Pssst... I’m still figuring things out when it comes to Git
+- Currently studying Computing at TU Dublin
+- On the side, I’m teaching myself Python and getting to grips with my Raspberry Pi
 
 
 <!---
