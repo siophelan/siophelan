@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @siophelan
-- Currently studying Computing at TU Dublin
-- Working on a final project that incorporates Python, a Raspberry Pi, a movement sensor, and cats.
+- I recently completed a Higher Diploma in Computer Science at TU Dublin
+- My final project incorporated Python, a Flask app, a Raspberry Pi, a motion sensor, and two cats...
 
 <!---
 siophelan/siophelan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
