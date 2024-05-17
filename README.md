@@ -1,6 +1,6 @@
-👋 Hello, I’m @siophelan
-🎓 In 2022, I completed a Higher Diploma in Science in Computing at TU Dublin
-⌨️ My final project incorporated Python, a Flask app, a Raspberry Pi, a motion sensor, and two cats 🐈🐈
+👋 Hello, I’m @siophelan <br>
+🎓 In 2022, I completed a Higher Diploma in Science in Computing at TU Dublin <br>
+⌨️ My final project incorporated Python, a Flask app, a Raspberry Pi, a motion sensor, and two cats 🐈🐈 
 
 
 <!---
