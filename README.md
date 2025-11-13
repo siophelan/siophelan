@@ -1,7 +1,6 @@
-👋 Hello, I’m @siophelan <br>
-🎓 In 2022, I completed a Higher Diploma in Science in Computing at TU Dublin <br>
-⌨️ My final project incorporated Python, a Flask web app, a Raspberry Pi, a motion sensor, and two cats 🐈🐈  <br>
-🧭 (I now keep this space mostly for personal development in private repositories)
+👋 @siophelan <br>
+🎓 The <b>pet-monitor</b> repository contains my final college project (from 2022) which incorporated Python, a Flask web app, a Raspberry Pi, a motion sensor, and two cats 🐈🐈  <br>
+🧭 Now keeping this space mostly for personal projects (in private repositories)
 
 
 <!---
